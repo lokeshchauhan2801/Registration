@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>My Python-Tkinter Project</title>
-</head>
+<head>Registration from portal</head>
 <body>
   <h1>Welcome to my Python-Tkinter project</h1>
   <img src="registration.png" alt="My Image" width="350" height="150">
